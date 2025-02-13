@@ -1,0 +1,208 @@
+id,name,set,rarity,image_url
+sv3pt5-1,Bulbasaur,151,Common,151_images/151/Bulbasaur_sv3pt5-1.jpg
+sv3pt5-2,Ivysaur,151,Uncommon,151_images/151/Ivysaur_sv3pt5-2.jpg
+sv3pt5-3,Venusaur ex,151,Double Rare,151_images/151/Venusaur ex_sv3pt5-3.jpg
+sv3pt5-4,Charmander,151,Common,151_images/151/Charmander_sv3pt5-4.jpg
+sv3pt5-5,Charmeleon,151,Uncommon,151_images/151/Charmeleon_sv3pt5-5.jpg
+sv3pt5-6,Charizard ex,151,Double Rare,151_images/151/Charizard ex_sv3pt5-6.jpg
+sv3pt5-7,Squirtle,151,Common,151_images/151/Squirtle_sv3pt5-7.jpg
+sv3pt5-8,Wartortle,151,Uncommon,151_images/151/Wartortle_sv3pt5-8.jpg
+sv3pt5-9,Blastoise ex,151,Double Rare,151_images/151/Blastoise ex_sv3pt5-9.jpg
+sv3pt5-10,Caterpie,151,Common,151_images/151/Caterpie_sv3pt5-10.jpg
+sv3pt5-11,Metapod,151,Common,151_images/151/Metapod_sv3pt5-11.jpg
+sv3pt5-12,Butterfree,151,Uncommon,151_images/151/Butterfree_sv3pt5-12.jpg
+sv3pt5-13,Weedle,151,Common,151_images/151/Weedle_sv3pt5-13.jpg
+sv3pt5-14,Kakuna,151,Common,151_images/151/Kakuna_sv3pt5-14.jpg
+sv3pt5-15,Beedrill,151,Rare,151_images/151/Beedrill_sv3pt5-15.jpg
+sv3pt5-16,Pidgey,151,Common,151_images/151/Pidgey_sv3pt5-16.jpg
+sv3pt5-17,Pidgeotto,151,Common,151_images/151/Pidgeotto_sv3pt5-17.jpg
+sv3pt5-18,Pidgeot,151,Uncommon,151_images/151/Pidgeot_sv3pt5-18.jpg
+sv3pt5-19,Rattata,151,Common,151_images/151/Rattata_sv3pt5-19.jpg
+sv3pt5-20,Raticate,151,Uncommon,151_images/151/Raticate_sv3pt5-20.jpg
+sv3pt5-21,Spearow,151,Common,151_images/151/Spearow_sv3pt5-21.jpg
+sv3pt5-22,Fearow,151,Uncommon,151_images/151/Fearow_sv3pt5-22.jpg
+sv3pt5-23,Ekans,151,Common,151_images/151/Ekans_sv3pt5-23.jpg
+sv3pt5-24,Arbok ex,151,Double Rare,151_images/151/Arbok ex_sv3pt5-24.jpg
+sv3pt5-25,Pikachu,151,Common,151_images/151/Pikachu_sv3pt5-25.jpg
+sv3pt5-26,Raichu,151,Rare,151_images/151/Raichu_sv3pt5-26.jpg
+sv3pt5-27,Sandshrew,151,Common,151_images/151/Sandshrew_sv3pt5-27.jpg
+sv3pt5-28,Sandslash,151,Uncommon,151_images/151/Sandslash_sv3pt5-28.jpg
+sv3pt5-29,Nidoran ♀,151,Common,151_images/151/Nidoran ♀_sv3pt5-29.jpg
+sv3pt5-30,Nidorina,151,Uncommon,151_images/151/Nidorina_sv3pt5-30.jpg
+sv3pt5-31,Nidoqueen,151,Uncommon,151_images/151/Nidoqueen_sv3pt5-31.jpg
+sv3pt5-32,Nidoran ♂,151,Common,151_images/151/Nidoran ♂_sv3pt5-32.jpg
+sv3pt5-33,Nidorino,151,Uncommon,151_images/151/Nidorino_sv3pt5-33.jpg
+sv3pt5-34,Nidoking,151,Rare,151_images/151/Nidoking_sv3pt5-34.jpg
+sv3pt5-35,Clefairy,151,Common,151_images/151/Clefairy_sv3pt5-35.jpg
+sv3pt5-36,Clefable,151,Uncommon,151_images/151/Clefable_sv3pt5-36.jpg
+sv3pt5-37,Vulpix,151,Common,151_images/151/Vulpix_sv3pt5-37.jpg
+sv3pt5-38,Ninetales ex,151,Double Rare,151_images/151/Ninetales ex_sv3pt5-38.jpg
+sv3pt5-39,Jigglypuff,151,Common,151_images/151/Jigglypuff_sv3pt5-39.jpg
+sv3pt5-40,Wigglytuff ex,151,Double Rare,151_images/151/Wigglytuff ex_sv3pt5-40.jpg
+sv3pt5-41,Zubat,151,Common,151_images/151/Zubat_sv3pt5-41.jpg
+sv3pt5-42,Golbat,151,Uncommon,151_images/151/Golbat_sv3pt5-42.jpg
+sv3pt5-43,Oddish,151,Common,151_images/151/Oddish_sv3pt5-43.jpg
+sv3pt5-44,Gloom,151,Uncommon,151_images/151/Gloom_sv3pt5-44.jpg
+sv3pt5-45,Vileplume,151,Rare,151_images/151/Vileplume_sv3pt5-45.jpg
+sv3pt5-46,Paras,151,Common,151_images/151/Paras_sv3pt5-46.jpg
+sv3pt5-47,Parasect,151,Uncommon,151_images/151/Parasect_sv3pt5-47.jpg
+sv3pt5-48,Venonat,151,Common,151_images/151/Venonat_sv3pt5-48.jpg
+sv3pt5-49,Venomoth,151,Uncommon,151_images/151/Venomoth_sv3pt5-49.jpg
+sv3pt5-50,Diglett,151,Common,151_images/151/Diglett_sv3pt5-50.jpg
+sv3pt5-51,Dugtrio,151,Uncommon,151_images/151/Dugtrio_sv3pt5-51.jpg
+sv3pt5-52,Meowth,151,Common,151_images/151/Meowth_sv3pt5-52.jpg
+sv3pt5-53,Persian,151,Uncommon,151_images/151/Persian_sv3pt5-53.jpg
+sv3pt5-54,Psyduck,151,Common,151_images/151/Psyduck_sv3pt5-54.jpg
+sv3pt5-55,Golduck,151,Uncommon,151_images/151/Golduck_sv3pt5-55.jpg
+sv3pt5-56,Mankey,151,Common,151_images/151/Mankey_sv3pt5-56.jpg
+sv3pt5-57,Primeape,151,Uncommon,151_images/151/Primeape_sv3pt5-57.jpg
+sv3pt5-58,Growlithe,151,Common,151_images/151/Growlithe_sv3pt5-58.jpg
+sv3pt5-59,Arcanine,151,Uncommon,151_images/151/Arcanine_sv3pt5-59.jpg
+sv3pt5-60,Poliwag,151,Common,151_images/151/Poliwag_sv3pt5-60.jpg
+sv3pt5-61,Poliwhirl,151,Common,151_images/151/Poliwhirl_sv3pt5-61.jpg
+sv3pt5-62,Poliwrath,151,Uncommon,151_images/151/Poliwrath_sv3pt5-62.jpg
+sv3pt5-63,Abra,151,Common,151_images/151/Abra_sv3pt5-63.jpg
+sv3pt5-64,Kadabra,151,Uncommon,151_images/151/Kadabra_sv3pt5-64.jpg
+sv3pt5-65,Alakazam ex,151,Double Rare,151_images/151/Alakazam ex_sv3pt5-65.jpg
+sv3pt5-66,Machop,151,Common,151_images/151/Machop_sv3pt5-66.jpg
+sv3pt5-67,Machoke,151,Uncommon,151_images/151/Machoke_sv3pt5-67.jpg
+sv3pt5-68,Machamp,151,Rare,151_images/151/Machamp_sv3pt5-68.jpg
+sv3pt5-69,Bellsprout,151,Common,151_images/151/Bellsprout_sv3pt5-69.jpg
+sv3pt5-70,Weepinbell,151,Common,151_images/151/Weepinbell_sv3pt5-70.jpg
+sv3pt5-71,Victreebel,151,Uncommon,151_images/151/Victreebel_sv3pt5-71.jpg
+sv3pt5-72,Tentacool,151,Common,151_images/151/Tentacool_sv3pt5-72.jpg
+sv3pt5-73,Tentacruel,151,Uncommon,151_images/151/Tentacruel_sv3pt5-73.jpg
+sv3pt5-74,Geodude,151,Common,151_images/151/Geodude_sv3pt5-74.jpg
+sv3pt5-75,Graveler,151,Uncommon,151_images/151/Graveler_sv3pt5-75.jpg
+sv3pt5-76,Golem ex,151,Double Rare,151_images/151/Golem ex_sv3pt5-76.jpg
+sv3pt5-77,Ponyta,151,Common,151_images/151/Ponyta_sv3pt5-77.jpg
+sv3pt5-78,Rapidash,151,Uncommon,151_images/151/Rapidash_sv3pt5-78.jpg
+sv3pt5-79,Slowpoke,151,Common,151_images/151/Slowpoke_sv3pt5-79.jpg
+sv3pt5-80,Slowbro,151,Uncommon,151_images/151/Slowbro_sv3pt5-80.jpg
+sv3pt5-81,Magnemite,151,Common,151_images/151/Magnemite_sv3pt5-81.jpg
+sv3pt5-82,Magneton,151,Uncommon,151_images/151/Magneton_sv3pt5-82.jpg
+sv3pt5-83,Farfetch'd,151,Common,151_images/151/Farfetch_d_sv3pt5-83.jpg
+sv3pt5-84,Doduo,151,Common,151_images/151/Doduo_sv3pt5-84.jpg
+sv3pt5-85,Dodrio,151,Rare,151_images/151/Dodrio_sv3pt5-85.jpg
+sv3pt5-86,Seel,151,Common,151_images/151/Seel_sv3pt5-86.jpg
+sv3pt5-87,Dewgong,151,Uncommon,151_images/151/Dewgong_sv3pt5-87.jpg
+sv3pt5-88,Grimer,151,Common,151_images/151/Grimer_sv3pt5-88.jpg
+sv3pt5-89,Muk,151,Uncommon,151_images/151/Muk_sv3pt5-89.jpg
+sv3pt5-90,Shellder,151,Common,151_images/151/Shellder_sv3pt5-90.jpg
+sv3pt5-91,Cloyster,151,Uncommon,151_images/151/Cloyster_sv3pt5-91.jpg
+sv3pt5-92,Gastly,151,Common,151_images/151/Gastly_sv3pt5-92.jpg
+sv3pt5-93,Haunter,151,Uncommon,151_images/151/Haunter_sv3pt5-93.jpg
+sv3pt5-94,Gengar,151,Rare,151_images/151/Gengar_sv3pt5-94.jpg
+sv3pt5-95,Onix,151,Uncommon,151_images/151/Onix_sv3pt5-95.jpg
+sv3pt5-96,Drowzee,151,Common,151_images/151/Drowzee_sv3pt5-96.jpg
+sv3pt5-97,Hypno,151,Uncommon,151_images/151/Hypno_sv3pt5-97.jpg
+sv3pt5-98,Krabby,151,Common,151_images/151/Krabby_sv3pt5-98.jpg
+sv3pt5-99,Kingler,151,Uncommon,151_images/151/Kingler_sv3pt5-99.jpg
+sv3pt5-100,Voltorb,151,Common,151_images/151/Voltorb_sv3pt5-100.jpg
+sv3pt5-101,Electrode,151,Rare,151_images/151/Electrode_sv3pt5-101.jpg
+sv3pt5-102,Exeggcute,151,Common,151_images/151/Exeggcute_sv3pt5-102.jpg
+sv3pt5-103,Exeggutor,151,Uncommon,151_images/151/Exeggutor_sv3pt5-103.jpg
+sv3pt5-104,Cubone,151,Common,151_images/151/Cubone_sv3pt5-104.jpg
+sv3pt5-105,Marowak,151,Rare,151_images/151/Marowak_sv3pt5-105.jpg
+sv3pt5-106,Hitmonlee,151,Uncommon,151_images/151/Hitmonlee_sv3pt5-106.jpg
+sv3pt5-107,Hitmonchan,151,Uncommon,151_images/151/Hitmonchan_sv3pt5-107.jpg
+sv3pt5-108,Lickitung,151,Common,151_images/151/Lickitung_sv3pt5-108.jpg
+sv3pt5-109,Koffing,151,Common,151_images/151/Koffing_sv3pt5-109.jpg
+sv3pt5-110,Weezing,151,Rare,151_images/151/Weezing_sv3pt5-110.jpg
+sv3pt5-111,Rhyhorn,151,Common,151_images/151/Rhyhorn_sv3pt5-111.jpg
+sv3pt5-112,Rhydon,151,Uncommon,151_images/151/Rhydon_sv3pt5-112.jpg
+sv3pt5-113,Chansey,151,Rare,151_images/151/Chansey_sv3pt5-113.jpg
+sv3pt5-114,Tangela,151,Common,151_images/151/Tangela_sv3pt5-114.jpg
+sv3pt5-115,Kangaskhan ex,151,Double Rare,151_images/151/Kangaskhan ex_sv3pt5-115.jpg
+sv3pt5-116,Horsea,151,Common,151_images/151/Horsea_sv3pt5-116.jpg
+sv3pt5-117,Seadra,151,Uncommon,151_images/151/Seadra_sv3pt5-117.jpg
+sv3pt5-118,Goldeen,151,Common,151_images/151/Goldeen_sv3pt5-118.jpg
+sv3pt5-119,Seaking,151,Uncommon,151_images/151/Seaking_sv3pt5-119.jpg
+sv3pt5-120,Staryu,151,Common,151_images/151/Staryu_sv3pt5-120.jpg
+sv3pt5-121,Starmie,151,Rare,151_images/151/Starmie_sv3pt5-121.jpg
+sv3pt5-122,Mr. Mime,151,Rare,151_images/151/Mr. Mime_sv3pt5-122.jpg
+sv3pt5-123,Scyther,151,Uncommon,151_images/151/Scyther_sv3pt5-123.jpg
+sv3pt5-124,Jynx ex,151,Double Rare,151_images/151/Jynx ex_sv3pt5-124.jpg
+sv3pt5-125,Electabuzz,151,Common,151_images/151/Electabuzz_sv3pt5-125.jpg
+sv3pt5-126,Magmar,151,Common,151_images/151/Magmar_sv3pt5-126.jpg
+sv3pt5-127,Pinsir,151,Uncommon,151_images/151/Pinsir_sv3pt5-127.jpg
+sv3pt5-128,Tauros,151,Uncommon,151_images/151/Tauros_sv3pt5-128.jpg
+sv3pt5-129,Magikarp,151,Common,151_images/151/Magikarp_sv3pt5-129.jpg
+sv3pt5-130,Gyarados,151,Rare,151_images/151/Gyarados_sv3pt5-130.jpg
+sv3pt5-131,Lapras,151,Uncommon,151_images/151/Lapras_sv3pt5-131.jpg
+sv3pt5-132,Ditto,151,Rare,151_images/151/Ditto_sv3pt5-132.jpg
+sv3pt5-133,Eevee,151,Common,151_images/151/Eevee_sv3pt5-133.jpg
+sv3pt5-134,Vaporeon,151,Rare,151_images/151/Vaporeon_sv3pt5-134.jpg
+sv3pt5-135,Jolteon,151,Rare,151_images/151/Jolteon_sv3pt5-135.jpg
+sv3pt5-136,Flareon,151,Rare,151_images/151/Flareon_sv3pt5-136.jpg
+sv3pt5-137,Porygon,151,Common,151_images/151/Porygon_sv3pt5-137.jpg
+sv3pt5-138,Omanyte,151,Uncommon,151_images/151/Omanyte_sv3pt5-138.jpg
+sv3pt5-139,Omastar,151,Rare,151_images/151/Omastar_sv3pt5-139.jpg
+sv3pt5-140,Kabuto,151,Uncommon,151_images/151/Kabuto_sv3pt5-140.jpg
+sv3pt5-141,Kabutops,151,Rare,151_images/151/Kabutops_sv3pt5-141.jpg
+sv3pt5-142,Aerodactyl,151,Rare,151_images/151/Aerodactyl_sv3pt5-142.jpg
+sv3pt5-143,Snorlax,151,Uncommon,151_images/151/Snorlax_sv3pt5-143.jpg
+sv3pt5-144,Articuno,151,Rare,151_images/151/Articuno_sv3pt5-144.jpg
+sv3pt5-145,Zapdos ex,151,Double Rare,151_images/151/Zapdos ex_sv3pt5-145.jpg
+sv3pt5-146,Moltres,151,Rare,151_images/151/Moltres_sv3pt5-146.jpg
+sv3pt5-147,Dratini,151,Common,151_images/151/Dratini_sv3pt5-147.jpg
+sv3pt5-148,Dragonair,151,Uncommon,151_images/151/Dragonair_sv3pt5-148.jpg
+sv3pt5-149,Dragonite,151,Rare,151_images/151/Dragonite_sv3pt5-149.jpg
+sv3pt5-150,Mewtwo,151,Rare,151_images/151/Mewtwo_sv3pt5-150.jpg
+sv3pt5-151,Mew ex,151,Double Rare,151_images/151/Mew ex_sv3pt5-151.jpg
+sv3pt5-152,Antique Dome Fossil,151,Common,151_images/151/Antique Dome Fossil_sv3pt5-152.jpg
+sv3pt5-153,Antique Helix Fossil,151,Common,151_images/151/Antique Helix Fossil_sv3pt5-153.jpg
+sv3pt5-154,Antique Old Amber,151,Common,151_images/151/Antique Old Amber_sv3pt5-154.jpg
+sv3pt5-155,Big Air Balloon,151,Uncommon,151_images/151/Big Air Balloon_sv3pt5-155.jpg
+sv3pt5-156,Bill's Transfer,151,Uncommon,151_images/151/Bill_s Transfer_sv3pt5-156.jpg
+sv3pt5-157,Cycling Road,151,Uncommon,151_images/151/Cycling Road_sv3pt5-157.jpg
+sv3pt5-158,Daisy's Help,151,Uncommon,151_images/151/Daisy_s Help_sv3pt5-158.jpg
+sv3pt5-159,Energy Sticker,151,Uncommon,151_images/151/Energy Sticker_sv3pt5-159.jpg
+sv3pt5-160,Erika's Invitation,151,Uncommon,151_images/151/Erika_s Invitation_sv3pt5-160.jpg
+sv3pt5-161,Giovanni's Charisma,151,Uncommon,151_images/151/Giovanni_s Charisma_sv3pt5-161.jpg
+sv3pt5-162,Grabber,151,Uncommon,151_images/151/Grabber_sv3pt5-162.jpg
+sv3pt5-163,Leftovers,151,Uncommon,151_images/151/Leftovers_sv3pt5-163.jpg
+sv3pt5-164,Protective Goggles,151,Uncommon,151_images/151/Protective Goggles_sv3pt5-164.jpg
+sv3pt5-165,Rigid Band,151,Uncommon,151_images/151/Rigid Band_sv3pt5-165.jpg
+sv3pt5-166,Bulbasaur,151,Illustration Rare,151_images/151/Bulbasaur_sv3pt5-166.jpg
+sv3pt5-167,Ivysaur,151,Illustration Rare,151_images/151/Ivysaur_sv3pt5-167.jpg
+sv3pt5-168,Charmander,151,Illustration Rare,151_images/151/Charmander_sv3pt5-168.jpg
+sv3pt5-169,Charmeleon,151,Illustration Rare,151_images/151/Charmeleon_sv3pt5-169.jpg
+sv3pt5-170,Squirtle,151,Illustration Rare,151_images/151/Squirtle_sv3pt5-170.jpg
+sv3pt5-171,Wartortle,151,Illustration Rare,151_images/151/Wartortle_sv3pt5-171.jpg
+sv3pt5-172,Caterpie,151,Illustration Rare,151_images/151/Caterpie_sv3pt5-172.jpg
+sv3pt5-173,Pikachu,151,Illustration Rare,151_images/151/Pikachu_sv3pt5-173.jpg
+sv3pt5-174,Nidoking,151,Illustration Rare,151_images/151/Nidoking_sv3pt5-174.jpg
+sv3pt5-175,Psyduck,151,Illustration Rare,151_images/151/Psyduck_sv3pt5-175.jpg
+sv3pt5-176,Poliwhirl,151,Illustration Rare,151_images/151/Poliwhirl_sv3pt5-176.jpg
+sv3pt5-177,Machoke,151,Illustration Rare,151_images/151/Machoke_sv3pt5-177.jpg
+sv3pt5-178,Tangela,151,Illustration Rare,151_images/151/Tangela_sv3pt5-178.jpg
+sv3pt5-179,Mr. Mime,151,Illustration Rare,151_images/151/Mr. Mime_sv3pt5-179.jpg
+sv3pt5-180,Omanyte,151,Illustration Rare,151_images/151/Omanyte_sv3pt5-180.jpg
+sv3pt5-181,Dragonair,151,Illustration Rare,151_images/151/Dragonair_sv3pt5-181.jpg
+sv3pt5-182,Venusaur ex,151,Ultra Rare,151_images/151/Venusaur ex_sv3pt5-182.jpg
+sv3pt5-183,Charizard ex,151,Ultra Rare,151_images/151/Charizard ex_sv3pt5-183.jpg
+sv3pt5-184,Blastoise ex,151,Ultra Rare,151_images/151/Blastoise ex_sv3pt5-184.jpg
+sv3pt5-185,Arbok ex,151,Ultra Rare,151_images/151/Arbok ex_sv3pt5-185.jpg
+sv3pt5-186,Ninetales ex,151,Ultra Rare,151_images/151/Ninetales ex_sv3pt5-186.jpg
+sv3pt5-187,Wigglytuff ex,151,Ultra Rare,151_images/151/Wigglytuff ex_sv3pt5-187.jpg
+sv3pt5-188,Alakazam ex,151,Ultra Rare,151_images/151/Alakazam ex_sv3pt5-188.jpg
+sv3pt5-189,Golem ex,151,Ultra Rare,151_images/151/Golem ex_sv3pt5-189.jpg
+sv3pt5-190,Kangaskhan ex,151,Ultra Rare,151_images/151/Kangaskhan ex_sv3pt5-190.jpg
+sv3pt5-191,Jynx ex,151,Ultra Rare,151_images/151/Jynx ex_sv3pt5-191.jpg
+sv3pt5-192,Zapdos ex,151,Ultra Rare,151_images/151/Zapdos ex_sv3pt5-192.jpg
+sv3pt5-193,Mew ex,151,Ultra Rare,151_images/151/Mew ex_sv3pt5-193.jpg
+sv3pt5-194,Bill's Transfer,151,Ultra Rare,151_images/151/Bill_s Transfer_sv3pt5-194.jpg
+sv3pt5-195,Daisy's Help,151,Ultra Rare,151_images/151/Daisy_s Help_sv3pt5-195.jpg
+sv3pt5-196,Erika's Invitation,151,Ultra Rare,151_images/151/Erika_s Invitation_sv3pt5-196.jpg
+sv3pt5-197,Giovanni's Charisma,151,Ultra Rare,151_images/151/Giovanni_s Charisma_sv3pt5-197.jpg
+sv3pt5-198,Venusaur ex,151,Special Illustration Rare,151_images/151/Venusaur ex_sv3pt5-198.jpg
+sv3pt5-199,Charizard ex,151,Special Illustration Rare,151_images/151/Charizard ex_sv3pt5-199.jpg
+sv3pt5-200,Blastoise ex,151,Special Illustration Rare,151_images/151/Blastoise ex_sv3pt5-200.jpg
+sv3pt5-201,Alakazam ex,151,Special Illustration Rare,151_images/151/Alakazam ex_sv3pt5-201.jpg
+sv3pt5-202,Zapdos ex,151,Special Illustration Rare,151_images/151/Zapdos ex_sv3pt5-202.jpg
+sv3pt5-203,Erika's Invitation,151,Special Illustration Rare,151_images/151/Erika_s Invitation_sv3pt5-203.jpg
+sv3pt5-204,Giovanni's Charisma,151,Special Illustration Rare,151_images/151/Giovanni_s Charisma_sv3pt5-204.jpg
+sv3pt5-205,Mew ex,151,Hyper Rare,151_images/151/Mew ex_sv3pt5-205.jpg
+sv3pt5-206,Switch,151,Hyper Rare,151_images/151/Switch_sv3pt5-206.jpg
+sv3pt5-207,Basic Psychic Energy,151,Hyper Rare,151_images/151/Basic Psychic Energy_sv3pt5-207.jpg

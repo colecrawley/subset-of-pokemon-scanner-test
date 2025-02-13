@@ -1,0 +1,103 @@
+id,name,set,rarity,image_url
+base1-1,Alakazam,Base,Rare Holo,151_images/Base/Alakazam_base1-1.jpg
+base1-2,Blastoise,Base,Rare Holo,151_images/Base/Blastoise_base1-2.jpg
+base1-3,Chansey,Base,Rare Holo,151_images/Base/Chansey_base1-3.jpg
+base1-4,Charizard,Base,Rare Holo,151_images/Base/Charizard_base1-4.jpg
+base1-5,Clefairy,Base,Rare Holo,151_images/Base/Clefairy_base1-5.jpg
+base1-6,Gyarados,Base,Rare Holo,151_images/Base/Gyarados_base1-6.jpg
+base1-7,Hitmonchan,Base,Rare Holo,151_images/Base/Hitmonchan_base1-7.jpg
+base1-8,Machamp,Base,Rare Holo,151_images/Base/Machamp_base1-8.jpg
+base1-9,Magneton,Base,Rare Holo,151_images/Base/Magneton_base1-9.jpg
+base1-10,Mewtwo,Base,Rare Holo,151_images/Base/Mewtwo_base1-10.jpg
+base1-11,Nidoking,Base,Rare Holo,151_images/Base/Nidoking_base1-11.jpg
+base1-12,Ninetales,Base,Rare Holo,151_images/Base/Ninetales_base1-12.jpg
+base1-13,Poliwrath,Base,Rare Holo,151_images/Base/Poliwrath_base1-13.jpg
+base1-14,Raichu,Base,Rare Holo,151_images/Base/Raichu_base1-14.jpg
+base1-15,Venusaur,Base,Rare Holo,151_images/Base/Venusaur_base1-15.jpg
+base1-16,Zapdos,Base,Rare Holo,151_images/Base/Zapdos_base1-16.jpg
+base1-17,Beedrill,Base,Rare,151_images/Base/Beedrill_base1-17.jpg
+base1-18,Dragonair,Base,Rare,151_images/Base/Dragonair_base1-18.jpg
+base1-19,Dugtrio,Base,Rare,151_images/Base/Dugtrio_base1-19.jpg
+base1-20,Electabuzz,Base,Rare,151_images/Base/Electabuzz_base1-20.jpg
+base1-21,Electrode,Base,Rare,151_images/Base/Electrode_base1-21.jpg
+base1-22,Pidgeotto,Base,Rare,151_images/Base/Pidgeotto_base1-22.jpg
+base1-23,Arcanine,Base,Uncommon,151_images/Base/Arcanine_base1-23.jpg
+base1-24,Charmeleon,Base,Uncommon,151_images/Base/Charmeleon_base1-24.jpg
+base1-25,Dewgong,Base,Uncommon,151_images/Base/Dewgong_base1-25.jpg
+base1-26,Dratini,Base,Uncommon,151_images/Base/Dratini_base1-26.jpg
+base1-27,Farfetch'd,Base,Uncommon,151_images/Base/Farfetch_d_base1-27.jpg
+base1-28,Growlithe,Base,Uncommon,151_images/Base/Growlithe_base1-28.jpg
+base1-29,Haunter,Base,Uncommon,151_images/Base/Haunter_base1-29.jpg
+base1-30,Ivysaur,Base,Uncommon,151_images/Base/Ivysaur_base1-30.jpg
+base1-31,Jynx,Base,Uncommon,151_images/Base/Jynx_base1-31.jpg
+base1-32,Kadabra,Base,Uncommon,151_images/Base/Kadabra_base1-32.jpg
+base1-33,Kakuna,Base,Uncommon,151_images/Base/Kakuna_base1-33.jpg
+base1-34,Machoke,Base,Uncommon,151_images/Base/Machoke_base1-34.jpg
+base1-35,Magikarp,Base,Uncommon,151_images/Base/Magikarp_base1-35.jpg
+base1-36,Magmar,Base,Uncommon,151_images/Base/Magmar_base1-36.jpg
+base1-37,Nidorino,Base,Uncommon,151_images/Base/Nidorino_base1-37.jpg
+base1-38,Poliwhirl,Base,Uncommon,151_images/Base/Poliwhirl_base1-38.jpg
+base1-39,Porygon,Base,Uncommon,151_images/Base/Porygon_base1-39.jpg
+base1-40,Raticate,Base,Uncommon,151_images/Base/Raticate_base1-40.jpg
+base1-41,Seel,Base,Uncommon,151_images/Base/Seel_base1-41.jpg
+base1-42,Wartortle,Base,Uncommon,151_images/Base/Wartortle_base1-42.jpg
+base1-43,Abra,Base,Common,151_images/Base/Abra_base1-43.jpg
+base1-44,Bulbasaur,Base,Common,151_images/Base/Bulbasaur_base1-44.jpg
+base1-45,Caterpie,Base,Common,151_images/Base/Caterpie_base1-45.jpg
+base1-46,Charmander,Base,Common,151_images/Base/Charmander_base1-46.jpg
+base1-47,Diglett,Base,Common,151_images/Base/Diglett_base1-47.jpg
+base1-48,Doduo,Base,Common,151_images/Base/Doduo_base1-48.jpg
+base1-49,Drowzee,Base,Common,151_images/Base/Drowzee_base1-49.jpg
+base1-50,Gastly,Base,Common,151_images/Base/Gastly_base1-50.jpg
+base1-51,Koffing,Base,Common,151_images/Base/Koffing_base1-51.jpg
+base1-52,Machop,Base,Common,151_images/Base/Machop_base1-52.jpg
+base1-53,Magnemite,Base,Common,151_images/Base/Magnemite_base1-53.jpg
+base1-54,Metapod,Base,Common,151_images/Base/Metapod_base1-54.jpg
+base1-55,Nidoran ♂,Base,Common,151_images/Base/Nidoran ♂_base1-55.jpg
+base1-56,Onix,Base,Common,151_images/Base/Onix_base1-56.jpg
+base1-57,Pidgey,Base,Common,151_images/Base/Pidgey_base1-57.jpg
+base1-58,Pikachu,Base,Common,151_images/Base/Pikachu_base1-58.jpg
+base1-59,Poliwag,Base,Common,151_images/Base/Poliwag_base1-59.jpg
+base1-60,Ponyta,Base,Common,151_images/Base/Ponyta_base1-60.jpg
+base1-61,Rattata,Base,Common,151_images/Base/Rattata_base1-61.jpg
+base1-62,Sandshrew,Base,Common,151_images/Base/Sandshrew_base1-62.jpg
+base1-63,Squirtle,Base,Common,151_images/Base/Squirtle_base1-63.jpg
+base1-64,Starmie,Base,Common,151_images/Base/Starmie_base1-64.jpg
+base1-65,Staryu,Base,Common,151_images/Base/Staryu_base1-65.jpg
+base1-66,Tangela,Base,Common,151_images/Base/Tangela_base1-66.jpg
+base1-67,Voltorb,Base,Common,151_images/Base/Voltorb_base1-67.jpg
+base1-68,Vulpix,Base,Common,151_images/Base/Vulpix_base1-68.jpg
+base1-69,Weedle,Base,Common,151_images/Base/Weedle_base1-69.jpg
+base1-70,Clefairy Doll,Base,Rare,151_images/Base/Clefairy Doll_base1-70.jpg
+base1-71,Computer Search,Base,Rare,151_images/Base/Computer Search_base1-71.jpg
+base1-72,Devolution Spray,Base,Rare,151_images/Base/Devolution Spray_base1-72.jpg
+base1-73,Impostor Professor Oak,Base,Rare,151_images/Base/Impostor Professor Oak_base1-73.jpg
+base1-74,Item Finder,Base,Rare,151_images/Base/Item Finder_base1-74.jpg
+base1-75,Lass,Base,Rare,151_images/Base/Lass_base1-75.jpg
+base1-76,Pokémon Breeder,Base,Rare,151_images/Base/Pokémon Breeder_base1-76.jpg
+base1-77,Pokémon Trader,Base,Rare,151_images/Base/Pokémon Trader_base1-77.jpg
+base1-78,Scoop Up,Base,Rare,151_images/Base/Scoop Up_base1-78.jpg
+base1-79,Super Energy Removal,Base,Rare,151_images/Base/Super Energy Removal_base1-79.jpg
+base1-80,Defender,Base,Uncommon,151_images/Base/Defender_base1-80.jpg
+base1-81,Energy Retrieval,Base,Uncommon,151_images/Base/Energy Retrieval_base1-81.jpg
+base1-82,Full Heal,Base,Uncommon,151_images/Base/Full Heal_base1-82.jpg
+base1-83,Maintenance,Base,Uncommon,151_images/Base/Maintenance_base1-83.jpg
+base1-84,PlusPower,Base,Uncommon,151_images/Base/PlusPower_base1-84.jpg
+base1-85,Pokémon Center,Base,Uncommon,151_images/Base/Pokémon Center_base1-85.jpg
+base1-86,Pokémon Flute,Base,Uncommon,151_images/Base/Pokémon Flute_base1-86.jpg
+base1-87,Pokédex,Base,Uncommon,151_images/Base/Pokédex_base1-87.jpg
+base1-88,Professor Oak,Base,Uncommon,151_images/Base/Professor Oak_base1-88.jpg
+base1-89,Revive,Base,Uncommon,151_images/Base/Revive_base1-89.jpg
+base1-90,Super Potion,Base,Uncommon,151_images/Base/Super Potion_base1-90.jpg
+base1-91,Bill,Base,Common,151_images/Base/Bill_base1-91.jpg
+base1-92,Energy Removal,Base,Common,151_images/Base/Energy Removal_base1-92.jpg
+base1-93,Gust of Wind,Base,Common,151_images/Base/Gust of Wind_base1-93.jpg
+base1-94,Potion,Base,Common,151_images/Base/Potion_base1-94.jpg
+base1-95,Switch,Base,Common,151_images/Base/Switch_base1-95.jpg
+base1-96,Double Colorless Energy,Base,Uncommon,151_images/Base/Double Colorless Energy_base1-96.jpg
+base1-97,Fighting Energy,Base,Unknown,151_images/Base/Fighting Energy_base1-97.jpg
+base1-98,Fire Energy,Base,Unknown,151_images/Base/Fire Energy_base1-98.jpg
+base1-99,Grass Energy,Base,Unknown,151_images/Base/Grass Energy_base1-99.jpg
+base1-100,Lightning Energy,Base,Unknown,151_images/Base/Lightning Energy_base1-100.jpg
+base1-101,Psychic Energy,Base,Unknown,151_images/Base/Psychic Energy_base1-101.jpg
+base1-102,Water Energy,Base,Unknown,151_images/Base/Water Energy_base1-102.jpg

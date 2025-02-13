@@ -1,14 +1,3 @@
-# Ignore dataset and CSV files
-*.csv
-*.tsv
-*.json
-*.xlsx
-*.db
-data/
-datasets/
-151_data/
-
-
 # Ignore logs and checkpoints
 logs/
 checkpoints/
