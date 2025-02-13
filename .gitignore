@@ -1,0 +1,33 @@
+# Ignore dataset and CSV files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.db
+data/
+datasets/
+151_data/
+
+
+# Ignore logs and checkpoints
+logs/
+checkpoints/
+wandb/
+tensorboard_logs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/

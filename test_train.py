@@ -6,7 +6,7 @@ splitsize = 0.85
 
 categories = []
 
-source_folder = r'C:\Users\lf220\Desktop\mobilenet project\151_images'
+source_folder = r'C:\Users\Cole\Desktop\subset-of-pokemon-scanner-test\151_images'
 folders = os.listdir(source_folder)
 print(folders)
 
@@ -18,7 +18,7 @@ categories.sort()
 print(categories)
 
 #create target folder
-target_folder = r"C:\Users\lf220\Desktop\mobilenet project\dataset_for_model"
+target_folder = r"C:\Users\Cole\Desktop\subset-of-pokemon-scanner-test\dataset_for_model"
 existDataSetPath = os.path.exists(target_folder)
 if existDataSetPath == False:
     os.mkdir(target_folder)
@@ -101,9 +101,9 @@ import pandas as pd
 splitsize = 0.85
 
 # Set the folder where the card image subfolders are stored
-dataset_folder = r'C:\Users\lf220\Desktop\mobilenet project\151_data'  # Folder containing the subfolders (sets)
-source_folder = r'C:\Users\lf220\Desktop\mobilenet project\dataset\151_images'  # Source folder containing card images
-target_folder = r"C:\Users\lf220\Desktop\mobilenet project\dataset_for_model"  # Target folder for train and val directories
+dataset_folder = r'C:\Users\Cole\Desktop\subset-of-pokemon-scanner-test\151_data'  # Folder containing the subfolders (sets)
+source_folder = r'C:\Users\Cole\Desktop\subset-of-pokemon-scanner-test\151_images'  # Source folder containing card images
+target_folder = r"C:\Users\Cole\Desktop\subset-of-pokemon-scanner-test\dataset_for_model"  # Target folder for train and val directories
 
 # Create the target folders if they don't exist
 trainPath = os.path.join(target_folder, "train_id")
